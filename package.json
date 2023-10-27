@@ -1,13 +1,9 @@
 {
-  "name": "doks",
-  "version": "1.1.0",
+  "name": "wiki",
+  "version": "0.0.0",
   "description": "Doks theme",
   "author": "Hyas",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gethyas/doks.git"
-  },
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache",
     "dev:drafts": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache --buildDrafts",
@@ -17,7 +13,7 @@
     "lint:styles": "stylelint --cache \"themes/doks/assets/scss/**/*.{css,sass,scss}\"",
     "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "exec-bin node_modules/.bin/hugo/hugo --minify",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --cleanDestinationDir --minify",
     "preview": "http-server --gzip --brotli --ext=html --cors",
     "clean": "npm run clean:build && npm run clean:lint && npm run clean:install",
     "clean:build": "shx rm -rf public resources .hugo_build.lock",
@@ -26,14 +22,10 @@
     "preinfo": "npm version",
     "info": "npm list",
     "postinfo": "exec-bin node_modules/.bin/hugo/hugo version",
-    "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo",
-    "version": "auto-changelog -p && git add CHANGELOG.md"
+    "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo"
   },
   "dependencies": {
     "@hyas/doks-core": "^1.1.0"
-  },
-  "devDependencies": {
-    "auto-changelog": "^2.4.0"
   },
   "engines": {
     "node": ">=16.12.0",
