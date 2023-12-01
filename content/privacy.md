@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "隐私政策"
 description: ""
 summary: ""
 date: 2023-09-07T17:19:07+02:00
@@ -12,3 +12,4 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+不，没有隐私政策。

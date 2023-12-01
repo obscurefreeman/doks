@@ -1,6 +1,6 @@
 ---
-title: "Example Post"
-description: "Just an example post."
+title: "示例博客"
+description: "只是个示例博客。"
 summary: ""
 date: 2023-09-07T16:27:22+02:00
 lastmod: 2023-09-07T16:27:22+02:00
