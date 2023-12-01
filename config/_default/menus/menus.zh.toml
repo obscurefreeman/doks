@@ -29,13 +29,13 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
+  name = "文档"
   url = "/docs/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "博客"
   url = "/blog/"
   weight = 30
 
