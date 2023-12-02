@@ -18,9 +18,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image011.jpg)![QQ浏览器截图20220114105614](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image013.gif)题目回顾
+![clip_image011](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image011.jpg)![QQ浏览器截图20220114105614](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image013.gif)题目回顾
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image015.jpg) 
+![clip_image015](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image015.jpg) 
 
  
 
@@ -88,7 +88,7 @@ In conclusion, our lives can be easy and happy in the virtual world.If we spare 
 
 练习二、 问题解决
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image019.jpg)
+![clip_image019](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image019.jpg)
 
  
 
@@ -417,7 +417,7 @@ Finally, it is important to remember that it is alright to not have perfect bala
 
 练习8 先写再看
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image021.jpg)
+![clip_image021](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image021.jpg)
 
  
 
@@ -467,7 +467,7 @@ In conclusion, having a sense of community responsibility is essential for a hea
 
  
 
-练习9 先写再看![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image023.jpg)
+练习9 先写再看![clip_image023](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image023.jpg)
 
 谚语类
 
@@ -543,7 +543,7 @@ Ultimately, this phrase remind us to take each day seriously and to stay focused
 
 练习10先写再看
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image025.jpg)
+![clip_image025](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image025.jpg)
 
 谚语类
 
@@ -719,7 +719,7 @@ As is starkly mirrored（reflected） in the image/chart（表格）that -______
 
 范文一
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image029.jpg)
+![clip_image029](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image029.jpg)
 
 As is starkly mirrored in the chart（表格）that Chinese rural population has been lifted out of poverty. It is revealed that China’s achievements in poverty alleviation are extraordinary. （图片内涵）The following reasons can account for this issue.（过渡句） 
 
@@ -733,7 +733,7 @@ In conclusion, the accomplishment of poverty alleviation in China is outstanding
 
 范文二
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image031.jpg)
+![clip_image031](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image031.jpg)
 
 As is starkly mirrored in the chart（表格）that gross enrolment ratio in higher education in China has rocketed up from 1990 to 2019. In 2019, more than half of the high school graduates can seek for further education.  It is revealed that China’s achievements in higher education are extraordinary. （图片内涵）The following reasons can account for this issue.（过渡句） 
 
@@ -743,7 +743,7 @@ In conclusion, the accomplishment of education in China is outstanding.If we spa
 
  
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image033.jpg)
+![clip_image033](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image033.jpg)
 
 请先写再看解析
 

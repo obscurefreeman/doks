@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "听力"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
@@ -710,4 +710,4 @@ B) Substantial funding in agricultural research.       D) Assumption of humanita
 
 .
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image040.gif) 
+![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image040.gif)  -->

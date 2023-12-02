@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "词汇"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
@@ -2653,4 +2653,4 @@ With regard to the theater, it was not until the last decades of the nineteenth 
 |            |          |          |
 |            |          |          |
 
-![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image056.jpg) 
+![img](https://raw.githubusercontent.com/obscurefreeman/library/main/assets/images/english/CET6/clip_image056.jpg)  -->
