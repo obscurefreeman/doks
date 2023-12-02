@@ -1,9 +1,8 @@
 ---
-title: "博客"
+title: "我不会在这里博客"
 description: ""
 summary: ""
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
+date: 2023-12-02
 draft: false
 weight: 50
 categories: []
@@ -18,9 +17,12 @@ seo:
   noindex: false # false (default) or true
 ---
 
-# 我不会在这里博客
-
 我不会在这里博客，想看我的博客请去下面的站点：
 
-- Github Page：https://github.com/obscurefreeman/blog
-- Netlify页面（国内访问更快，但是不能评论）：https://obscurefreeman.netlify.app/
+- [Github Page](https://github.com/obscurefreeman/blog)
+- [Netlify页面](https://obscurefreeman.netlify.app/)（国内访问更快，但是不能评论）
+
+起源维基：
+
+- [Github Page](https://obscurefreeman.github.io/sourcewiki/)
+- [Netlify页面](https://sourcewiki.netlify.app/)
