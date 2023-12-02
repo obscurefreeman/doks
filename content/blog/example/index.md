@@ -1,5 +1,5 @@
 ---
-title: "我不会在这里博客"
+title: "我不会在这里写博客"
 description: ""
 summary: ""
 date: 2023-12-02
@@ -17,7 +17,7 @@ seo:
   noindex: false # false (default) or true
 ---
 
-我不会在这里博客，想看我的博客请去下面的站点：
+我不会在这里写博客，想看我的博客请去下面的站点：
 
 - [Github Page](https://github.com/obscurefreeman/blog)
 - [Netlify页面](https://obscurefreeman.netlify.app/)（国内访问更快，但是不能评论）

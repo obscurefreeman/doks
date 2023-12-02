@@ -18,4 +18,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-[官方文档](https://getdoks.org/)
+这是[官方文档](https://getdoks.org/)，你会用得到的。没错，我跟官方一样懒。
