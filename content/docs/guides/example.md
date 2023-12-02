@@ -19,3 +19,5 @@ seo:
 ---
 
 这是[官方文档](https://getdoks.org/)，你会用得到的。没错，我跟官方一样懒。
+
+Doks 支持所有其他 Markdown 创作语法，例如列表和表格。另请参阅[Markdown 基本语法](https://getdoks.org/docs/reference/markdown-basic-syntax/)和[Markdown 扩展语法。](https://getdoks.org/docs/reference/markdown-extended-syntax/)

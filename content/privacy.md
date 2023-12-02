@@ -12,3 +12,5 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+没有隐私政策，这就是全部了。
