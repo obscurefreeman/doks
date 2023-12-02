@@ -1,16 +1,16 @@
 ---
-title: "网站相关"
+title: "博客"
 description: ""
 summary: ""
-date: 2023-09-07T16:06:50+02:00
-lastmod: 2023-09-07T16:06:50+02:00
+date: 2023-09-07T16:21:44+02:00
+lastmod: 2023-09-07T16:21:44+02:00
 draft: false
-menu:
-  docs:
-    parent: ""
-    identifier: "guides-4e0d0e0f89f7decc11eaad4ae9193018"
-weight: 800
-toc: true
+weight: 50
+categories: []
+tags: []
+contributors: []
+pinned: false
+homepage: false
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
