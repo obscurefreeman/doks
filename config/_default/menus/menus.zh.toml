@@ -35,6 +35,12 @@
   weight = 10
 
 [[main]]
+  name = "英语"
+  url = "/english/"
+# url = "/docs/"
+  weight = 10
+
+[[main]]
   name = "博客"
   url = "/blog/"
   weight = 30
